@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=llki&label=Profile%20views&color=0e75b6&style=flat" alt="llki" /> </p>
 
-- 🌱 I’m currently learning **C/C++,QT,Linux,C#,WinForm,ASP.NET,Vue**
+- 🌱 I’m currently learning **C/C++,Linux,C#,WinForm,ASP.NET**
 
 - 📫 How to reach me **llk20032023@outlook.com**
 
